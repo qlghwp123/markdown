@@ -1,4 +1,5 @@
 # markdown
+
 my own summary of markdown
 
 
@@ -16,10 +17,15 @@ To make header, try ```#```.
 ```
 
 # h1
+
 ## h2
+
 ### h3
+
 #### h4
+
 ##### h5
+
 ###### h6
 
 
@@ -66,18 +72,21 @@ to use ordered list, start with ```1.  ```
 to make Blockquote, try ```>``` and also try ```>>``` if u want to make Blockquote inside Blockquote.
 
 > first
->> second
+>
+> > second
 
 
 ## 4. Code Block
 
 to make Code Block, try ```.
 
+````
 ```
-\`\`\`
 code block
-\`\`\`
 ```
+````
+
+
 
 
 ```
@@ -90,7 +99,7 @@ code block
 List + [ ] or List + [X]
 
 - [ ] none
-- [X] check
+- [x] check
 
 1. [ ] none
 2. [X] check
@@ -100,4 +109,3 @@ List + [ ] or List + [X]
 
 1. [link](https://devuna.tistory.com/20)
 2. [link](https://www.markdownguide.org/basic-syntax/)
-
