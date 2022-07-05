@@ -78,11 +78,11 @@ to make Blockquote, try ```>``` and also try ```>>``` if u want to make Blockquo
 
 ## 4. Code Block
 
-to make Code Block, try ```.
+to make Code Block, try ``` or ````.
 
 ````
 ```
-code block
+if u want to put backtick in here, just use ```` to make Code Block.
 ```
 ````
 
@@ -90,7 +90,7 @@ code block
 
 
 ```
-code block
+if u want to put backtick in here, just use ```` to make Code Block.
 ```
 
 
