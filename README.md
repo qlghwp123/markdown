@@ -1,6 +1,7 @@
 # markdown
 my own summary of markdown
 
+
 ## 1. Header 
 
 To make header, try ```#```.  
@@ -20,6 +21,7 @@ To make header, try ```#```.
 #### h4
 ##### h5
 ###### h6
+
 
 ## 2. List
 
@@ -58,6 +60,7 @@ to use ordered list, start with ```1.  ```
 2. second
 3. third
 
+
 ## 3. Blockquotes
 
 to make Blockquote, try ```>``` and also try ```>>``` if u want to make Blockquote inside Blockquote.
@@ -65,9 +68,10 @@ to make Blockquote, try ```>``` and also try ```>>``` if u want to make Blockquo
 > first
 >> second
 
+
 ## 4. Code Block
 
-to make Code Block, try ``` ``` ```.
+to make Code Block, try ```.
 
 ```
 ```
@@ -79,6 +83,7 @@ code block
 ```
 code block
 ```
+
 
 ## 5. Task List
 
@@ -90,7 +95,9 @@ List + [ ] or List + [X]
 1. [ ] none
 2. [X] check
 
+
 ## 6. References
 
 1. [link](https://devuna.tistory.com/20)
 2. [link](https://www.markdownguide.org/basic-syntax/)
+
