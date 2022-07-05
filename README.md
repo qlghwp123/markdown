@@ -74,9 +74,9 @@ to make Blockquote, try ```>``` and also try ```>>``` if u want to make Blockquo
 to make Code Block, try ```.
 
 ```
-```
+\`\`\`
 code block
-```
+\`\`\`
 ```
 
 
