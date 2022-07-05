@@ -39,11 +39,15 @@ code block
 
 ## 5. Task List
 
-List + [] 
+List + [ ] or List + [X]
 
-- [] none
+- [ ] none
 - [X] check
 
-1. [] none
+1. [ ] none
 2. [X] check
 
+## 6. References
+
+1. [link](https://devuna.tistory.com/20)
+2. 
